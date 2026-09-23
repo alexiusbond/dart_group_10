@@ -15,6 +15,7 @@ git config --list                     # показывает сохранённ�
 
 ```bash
 git init                              # инициализирует репозиторий (.git) в папке проекта
+git branch -M main
 git remote add origin <HTTPS link.git> # связывает локальный репозиторий с удалённым
 ```
 
