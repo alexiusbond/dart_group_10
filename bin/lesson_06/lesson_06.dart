@@ -25,4 +25,6 @@ void main() {
   }
 
   Animal.showCounter();
+
+  print('End of program. Bye!');
 }
